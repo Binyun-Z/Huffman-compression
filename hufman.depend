@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1515336765 source:d:\学习\课程设计\hufman\main.cpp
+	"huffman.h"
+
+1515236923 d:\学习\课程设计\hufman\huffman.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1515337375 source:e:\课设\hufman\main.cpp
+	"huffman.h"
+
+1515337375 e:\课设\hufman\huffman.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
